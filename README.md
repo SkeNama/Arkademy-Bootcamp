@@ -1,2 +1,2 @@
 # Arkademy-Bootcamp
-Sebuah tugas dari Arcademy
+Sebuah tugas dari Arkademy
